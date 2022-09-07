@@ -1,7 +1,7 @@
 import pandas as pd, pylab as py, numpy as np, tables as t
 import matplotlib.dates as mdates
 
-# script to analyse the behavior of the empty bunches immediately after colliding bunches.
+# Script to look at the behavior of the empty bunches immediately after colliding bunches, to see how the albedo correction is doing
 # folder_reprocessed is some reprocessed fill with the original channel mask and albedo correction
 # folder_reprocessed_newChannels is the same fill reprocessed with the new channel mask and new albedo correction
 
