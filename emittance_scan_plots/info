@@ -1,1 +1,2 @@
-contains scripts to make plots from either the `fit_and_lumidata.csv` or `fit_and_lumidata_averageBCIDs.csv` file which are produced by the VdM Framework
+contains scripts to make plots from either the `fit_and_lumidata.csv` or `fit_and_lumidata_averageBCIDs.csv` file which are produced by the VdM Framework.
+See Leila_Freitag_DESY_Overview.pdf in parent folder for details on which scripts make which plots.
